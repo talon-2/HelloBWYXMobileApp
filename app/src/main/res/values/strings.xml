@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hello BWYX</string>
+    <string name="my_name">Brian Wong Yee Xiang</string>
+    <string name="Show">Show</string>
+    <string name="Hide">Hide</string>
+    <string name="QRCode">QRCode</string>
+</resources>
